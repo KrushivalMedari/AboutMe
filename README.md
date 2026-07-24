@@ -185,18 +185,7 @@ I actively participate in hackathons, startup initiatives, technical communities
 
 ---
 
-# 📈 GitHub Stats
 
-> Replace **YOUR-USERNAME** with your GitHub username.
-
-```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=tokyonight)
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=blue)
 ```
 
 ---
